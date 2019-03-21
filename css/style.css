@@ -5,9 +5,10 @@
   --mainRed: #d62828;
   --mainBlue: #11b5e4;
 }
+
 body {
-  background: var(--mainWhite);
   color: #333333;
+  background-image: url("leaves.png");
 }
 .btn-green {
   border-color: var(--mainGreen);
